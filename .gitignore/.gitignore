@@ -1,0 +1,33 @@
+using System;
+
+class Text
+{
+    public static void Main()
+    {
+        {
+            Console.Write("あなたの名前は ");
+            string YourName = Console.ReadLine();
+            Console.Write("あなたの年齢は ");
+            string YourAge = Console.ReadLine();
+            Console.Write("あなたの攻撃力は");
+            string attack = Console.ReadLine();
+            Console.Write("あなたの防御力は");
+            string ohno = Console.ReadLine();
+            Console.Write("あなたの名前は{0}で年齢は{1}歳であなたの攻撃力は{2}です", YourName, YourAge,attack,ohno
+                );
+            Console.Write("分かりましたか");
+            Console.Write("アップデートを待って、再度打ち込んでください。　セーブ機能はまだありません");
+
+
+
+
+
+            Console.ReadKey();
+        }
+        
+    }
+}
+
+    Contact GitHub API Training Shop Blog About 
+
+    © 2017 GitHub, Inc. Terms
