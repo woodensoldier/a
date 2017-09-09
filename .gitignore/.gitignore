@@ -1,3 +1,9 @@
+//------------------------------
+//  Text Advencure Game
+//  2017/09/10
+//  Written by Ryuken Takagi
+//------------------------------
+
 using System;
 
 class Text
@@ -17,10 +23,6 @@ class Text
                 );
             Console.Write("分かりましたか");
             Console.Write("アップデートを待って、再度打ち込んでください。　セーブ機能はまだありません");
-
-
-
-
 
             Console.ReadKey();
         }
