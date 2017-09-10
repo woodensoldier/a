@@ -1,3 +1,9 @@
+//-----------------------------------------
+// Text Advencure Game
+// 2017/09/10
+// Written by Ryuken Takagi
+//-----------------------------------------
+
 using System;
 
 class Text
